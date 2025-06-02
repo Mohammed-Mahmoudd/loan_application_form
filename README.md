@@ -21,9 +21,9 @@ This project is a responsive and interactive **loan application form** built usi
 ## ⚙️ Tech Stack
 
 - ⚛️ **React** (Vite or CRA)
-- 🎨 **CSS / Tailwind / Bootstrap** (choose one)
-- 🧠 **React Hook Form** (optional for form handling)
-- 🔗 **Axios** (optional for HTTP requests)
+- 🎨 **CSS ** (choose one)
+- 🧠 **React Hook Form** 
+
 
 ---
 
@@ -33,11 +33,12 @@ This project is a responsive and interactive **loan application form** built usi
 ```
 loan_application_form/
 ├── public/
+├── Contexts/
+    ├── InputFormContext.js/
 ├── src/
-│   ├── components/      # Reusable components
-│   ├── pages/           # Page views (if any)
-│   ├── App.jsx
-│   └── main.jsx
+│   ├── Mycomponent.js/      # Reusable components
+│   ├── App.js
+│   └── index.js
 ├── package.json
 └── README.md
 ```
