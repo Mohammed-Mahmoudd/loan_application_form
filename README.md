@@ -20,8 +20,8 @@ This project is a responsive and interactive **loan application form** built usi
 
 ## ⚙️ Tech Stack
 
-- ⚛️ **React** (Vite or CRA)
-- 🎨 **CSS ** (choose one)
+- ⚛️ **React**
+- 🎨 **CSS** 
 - 🧠 **React Hook Form** 
 
 
